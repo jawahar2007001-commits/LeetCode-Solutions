@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/jawahar2007001-commits/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/jawahar2007001-commits/LeetCode-Solutions/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -13,4 +14,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/jawahar2007001-commits/LeetCode-Solutions/tree/master/0231-power-of-two) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/jawahar2007001-commits/LeetCode-Solutions/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/jawahar2007001-commits/LeetCode-Solutions/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/jawahar2007001-commits/LeetCode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
