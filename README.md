@@ -26,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/jawahar2007001-commits/LeetCode-Solutions/tree/master/0202-happy-number) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/jawahar2007001-commits/LeetCode-Solutions/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
