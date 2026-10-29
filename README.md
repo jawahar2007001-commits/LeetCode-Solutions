@@ -31,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/jawahar2007001-commits/LeetCode-Solutions/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/jawahar2007001-commits/LeetCode-Solutions/tree/master/0584-find-customer-referee) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/jawahar2007001-commits/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/jawahar2007001-commits/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
