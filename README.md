@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/jawahar2007001-commits/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/jawahar2007001-commits/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0415-add-strings](https://github.com/jawahar2007001-commits/LeetCode-Solutions/tree/master/0415-add-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jawahar2007001-commits/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0415-add-strings](https://github.com/jawahar2007001-commits/LeetCode-Solutions/tree/master/0415-add-strings) |
 ## Stack
 |  |
 | ------- |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jawahar2007001-commits/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/jawahar2007001-commits/LeetCode-Solutions/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
