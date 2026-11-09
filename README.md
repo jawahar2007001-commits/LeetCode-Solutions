@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/jawahar2007001-commits/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/jawahar2007001-commits/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/jawahar2007001-commits/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/jawahar2007001-commits/LeetCode-Solutions/tree/master/0415-add-strings) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/jawahar2007001-commits/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/jawahar2007001-commits/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/jawahar2007001-commits/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 ## Two Pointers
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/jawahar2007001-commits/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/jawahar2007001-commits/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0415-add-strings](https://github.com/jawahar2007001-commits/LeetCode-Solutions/tree/master/0415-add-strings) |
 ## Stack
